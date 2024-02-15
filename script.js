@@ -104,3 +104,4 @@ sw.addEventListener('click', () => {
     sw.style.backgroundColor = '#fff'
   }
 })
+alert("Hello mga classmate Welcome sa aking Website Portfolio 😁");
